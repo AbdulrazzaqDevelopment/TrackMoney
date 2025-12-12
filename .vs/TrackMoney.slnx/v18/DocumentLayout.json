@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a\\source\\repos\\TrackMoney\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7675C8E5-961D-85F4-CAF8-281FF0E15334}|TrackMoney\\TrackMoney.csproj|c:\\users\\a\\source\\repos\\trackmoney\\trackmoney\\trackmoney.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7675C8E5-961D-85F4-CAF8-281FF0E15334}|TrackMoney\\TrackMoney.csproj|solutionrelative:trackmoney\\trackmoney.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7675C8E5-961D-85F4-CAF8-281FF0E15334}|TrackMoney\\TrackMoney.csproj|c:\\users\\a\\source\\repos\\trackmoney\\trackmoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7675C8E5-961D-85F4-CAF8-281FF0E15334}|TrackMoney\\TrackMoney.csproj|solutionrelative:trackmoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackMoney",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\TrackMoney\\TrackMoney\\TrackMoney.csproj",
+              "RelativeDocumentMoniker": "TrackMoney\\TrackMoney.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\TrackMoney\\TrackMoney\\TrackMoney.csproj",
+              "RelativeToolTip": "TrackMoney\\TrackMoney.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T04:46:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\TrackMoney\\TrackMoney\\Program.cs",
+              "RelativeDocumentMoniker": "TrackMoney\\Program.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\TrackMoney\\TrackMoney\\Program.cs",
+              "RelativeToolTip": "TrackMoney\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwIUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T04:38:32.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
